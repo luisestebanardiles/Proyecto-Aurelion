@@ -45,7 +45,8 @@ Inicio
 Fin
 
 ### Diagrama de flujo
- Imagen adjunta en carpeta
+#### Diagrama en carpeta
+![Diagrama de flujo](Diagrama de Flujo.png) 
 
 
 ## 1. Tema, problema y solución
