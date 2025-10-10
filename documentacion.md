@@ -46,7 +46,7 @@ Fin
 
 ### Diagrama de flujo
 #### Diagrama en carpeta
-![Diagrama de flujo](Diagrama de Flujo.png) 
+![Diagrama de flujo](Diagrama_de_Flujo.png) 
 
 
 ## 1. Tema, problema y solución
