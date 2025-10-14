@@ -9,7 +9,7 @@ Problemática: La tienda carece de un análisis organizado y estructurado sobre 
 Solución: Limpieza, análisis y visualización de los datos proporcionados por la gerencia del local.
 """,
     "2": """Dataset de referencia: fuente, definición, estructura, tipos y escala de medición
-Fuente: datos generados con fines educativos.
+Fuente: datos generados con fines educativos, extraidos de las BD brindadas.
 Definición: base que representa una Tienda, con catálogo de productos, registro de clientes y operaciones de venta.
 """,
     "3": """Estructura por tabla (tipo y escala)
@@ -61,6 +61,7 @@ Detalle_Ventas (detalle_ventas.csv)  ~343 filas
 - Separar la documentación en plantillas reutilizables.
 - Realizar documentacion en el archivo Documentacion.md
 - Analizar las tablas
+- No se descartó ninguna sugerencia
 """,
     "6": "Se cerrará el visor. ¡Hasta luego!"
 }

@@ -58,7 +58,7 @@ El objetivo es disponer de un escenario consistente para practicar análisis, vi
 **Solución:** Limpieza, análisis y visualización de los datos proporcionados por la gerencia del local.
 
 ## 2. Dataset de referencia: fuente, definición, estructura, tipos y escala de medición
-Fuente: datos generados con fines educativos.  
+Fuente: datos generados con fines educativos, extraidos de las BD brindadas.  
 Definición: base que representa una Tienda, con catálogo de productos, registro de clientes y operaciones de venta.
 
 ## 3. Estructura por tabla (tipo y escala)
@@ -111,6 +111,7 @@ Definición: base que representa una Tienda, con catálogo de productos, registr
 - Separar la documentación en plantillas reutilizables.
 - Realizar documentacion en el archivo Documentacion.md
 - Analizar las tablas
+- No se descartó ninguna sugerencia
 
 ### Analisis de tablas
 Se registraron los siguientes errores de datos en las tablas:
